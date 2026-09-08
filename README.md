@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1925YSH/DSA/tree/master/0001-two-sum) |
+| [0485-max-consecutive-ones](https://github.com/1925YSH/DSA/tree/master/0485-max-consecutive-ones) |
 | [1002-find-common-characters](https://github.com/1925YSH/DSA/tree/master/1002-find-common-characters) |
 ## Hash Table
 |  |
