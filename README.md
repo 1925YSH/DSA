@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/1925YSH/DSA/tree/master/0020-valid-parentheses) |
 | [1002-find-common-characters](https://github.com/1925YSH/DSA/tree/master/1002-find-common-characters) |
 ## Tree
 |  |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/1925YSH/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/1925YSH/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/1925YSH/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
