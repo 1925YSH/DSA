@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/1925YSH/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/1925YSH/DSA/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
