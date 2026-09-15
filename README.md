@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/1925YSH/DSA/tree/master/0020-valid-parentheses) |
 | [1002-find-common-characters](https://github.com/1925YSH/DSA/tree/master/1002-find-common-characters) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/1925YSH/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1925YSH/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/1925YSH/DSA/tree/master/0189-rotate-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/1925YSH/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/1925YSH/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/1925YSH/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/1925YSH/DSA/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/1925YSH/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
