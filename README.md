@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/1925YSH/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/1925YSH/DSA/tree/master/0485-max-consecutive-ones) |
 | [0835-image-overlap](https://github.com/1925YSH/DSA/tree/master/0835-image-overlap) |
+| [0977-squares-of-a-sorted-array](https://github.com/1925YSH/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/1925YSH/DSA/tree/master/1002-find-common-characters) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/1925YSH/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1925YSH/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1925YSH/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/1925YSH/DSA/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/1925YSH/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/1925YSH/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/1925YSH/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/1925YSH/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
