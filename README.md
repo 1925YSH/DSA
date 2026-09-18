@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/1925YSH/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/1925YSH/DSA/tree/master/1002-find-common-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1925YSH/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1748-sum-of-unique-elements](https://github.com/1925YSH/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/1925YSH/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1925YSH/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/1925YSH/DSA/tree/master/1002-find-common-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1925YSH/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/1925YSH/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1748-sum-of-unique-elements](https://github.com/1925YSH/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1925YSH/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/1925YSH/DSA/tree/master/0412-fizz-buzz) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/1925YSH/DSA/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
