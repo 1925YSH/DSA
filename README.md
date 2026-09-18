@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/1925YSH/DSA/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/1925YSH/DSA/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/1925YSH/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1952-three-divisors](https://github.com/1925YSH/DSA/tree/master/1952-three-divisors) |
 | [3870-count-commas-in-range](https://github.com/1925YSH/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/1925YSH/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/1925YSH/DSA/tree/master/1952-three-divisors) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1925YSH/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -141,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/1925YSH/DSA/tree/master/1748-sum-of-unique-elements) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/1925YSH/DSA/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/1925YSH/DSA/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/1925YSH/DSA/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
