@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/1925YSH/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/1925YSH/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/1925YSH/DSA/tree/master/0836-rectangle-overlap) |
+| [1137-n-th-tribonacci-number](https://github.com/1925YSH/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/1925YSH/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/1925YSH/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1952-three-divisors](https://github.com/1925YSH/DSA/tree/master/1952-three-divisors) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/1925YSH/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/1925YSH/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/1925YSH/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1925YSH/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/1925YSH/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/1925YSH/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/1925YSH/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/1925YSH/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/1925YSH/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
