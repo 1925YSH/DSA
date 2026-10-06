@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/1925YSH/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/1925YSH/DSA/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/1925YSH/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/1925YSH/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/1925YSH/DSA/tree/master/1002-find-common-characters) |
 | [1096-brace-expansion-ii](https://github.com/1925YSH/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/1925YSH/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/1925YSH/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/1925YSH/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/1925YSH/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/1925YSH/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/1925YSH/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/1925YSH/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/1925YSH/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/1925YSH/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/1925YSH/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/1925YSH/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/1925YSH/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/1925YSH/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/1925YSH/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/1925YSH/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/1925YSH/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/1925YSH/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/1925YSH/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/1925YSH/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/1925YSH/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Database
