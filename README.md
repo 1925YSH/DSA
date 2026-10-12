@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/1925YSH/DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/1925YSH/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/1925YSH/DSA/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/1925YSH/DSA/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/1925YSH/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/1925YSH/DSA/tree/master/1002-find-common-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1925YSH/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/1925YSH/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/1925YSH/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0860-lemonade-change](https://github.com/1925YSH/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/1925YSH/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/1925YSH/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/1925YSH/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
