@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/1925YSH/DSA/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/1925YSH/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/1925YSH/DSA/tree/master/1002-find-common-characters) |
+| [1254-number-of-closed-islands](https://github.com/1925YSH/DSA/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1925YSH/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/1925YSH/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/1925YSH/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/1925YSH/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1925YSH/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/1925YSH/DSA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/1925YSH/DSA/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/1925YSH/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/1925YSH/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/1925YSH/DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/1925YSH/DSA/tree/master/1254-number-of-closed-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -336,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1925YSH/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/1925YSH/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/1925YSH/DSA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
