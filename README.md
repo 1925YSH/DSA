@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1925YSH/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/1925YSH/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/1925YSH/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1002-find-common-characters](https://github.com/1925YSH/DSA/tree/master/1002-find-common-characters) |
 | [1096-brace-expansion-ii](https://github.com/1925YSH/DSA/tree/master/1096-brace-expansion-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/1925YSH/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/1925YSH/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/1925YSH/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1925YSH/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/1925YSH/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/1925YSH/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/1925YSH/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1925YSH/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
