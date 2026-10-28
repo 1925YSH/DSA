@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/1925YSH/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1925YSH/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/1925YSH/DSA/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/1925YSH/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1925YSH/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/1925YSH/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/1925YSH/DSA/tree/master/0189-rotate-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/1925YSH/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/1925YSH/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1925YSH/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/1925YSH/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/1925YSH/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/1925YSH/DSA/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/1925YSH/DSA/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/1925YSH/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
