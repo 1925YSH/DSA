@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/1925YSH/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/1925YSH/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1925YSH/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/1925YSH/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/1925YSH/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/1925YSH/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1925YSH/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/1925YSH/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1925YSH/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/1925YSH/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/1925YSH/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/1925YSH/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/1925YSH/DSA/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/1925YSH/DSA/tree/master/0455-assign-cookies) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/1925YSH/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/1925YSH/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/1925YSH/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/1925YSH/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/1925YSH/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/1925YSH/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1925YSH/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/1925YSH/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/1925YSH/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/1925YSH/DSA/tree/master/0042-trapping-rain-water) |
 | [0856-score-of-parentheses](https://github.com/1925YSH/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/1925YSH/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/1925YSH/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/1925YSH/DSA/tree/master/0042-trapping-rain-water) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/1925YSH/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
