@@ -10,15 +10,17 @@ class Solution {
 
         for (int num : nums) {
 
-            // Choice 1: Increase num to num + 1
-            int increase = dp[num] + 1;
-
-            // Choice 2: Keep num as it is
+          // Choice 1: Keep num as it is
             int keep = dp[num - 1] + 1;
 
+            // Choice 2: Increase num to num + 1
+            int increase = dp[num] + 1;
+
+
             // Update both DP states
-            dp[num + 1] = Math.max(dp[num + 1], increase);
             dp[num] = Math.max(dp[num], keep);
+
+            dp[num + 1] = Math.max(dp[num + 1], increase);
 
             ans = Math.max(ans, Math.max(dp[num], dp[num + 1]));
         }
