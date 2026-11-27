@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/1925YSH/DSA/tree/master/1952-three-divisors) |
 | [2409-count-days-spent-together](https://github.com/1925YSH/DSA/tree/master/2409-count-days-spent-together) |
 | [2652-sum-multiples](https://github.com/1925YSH/DSA/tree/master/2652-sum-multiples) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/1925YSH/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3360-stone-removal-game](https://github.com/1925YSH/DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/1925YSH/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/1925YSH/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/1925YSH/DSA/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/1925YSH/DSA/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/1925YSH/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1925YSH/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/1925YSH/DSA/tree/master/0412-fizz-buzz) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/1925YSH/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/1925YSH/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3360-stone-removal-game](https://github.com/1925YSH/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/1925YSH/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/1925YSH/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/1925YSH/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/1925YSH/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/1925YSH/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/1925YSH/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/1925YSH/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
