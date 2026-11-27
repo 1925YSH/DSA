@@ -1,37 +1,22 @@
 class Solution {
 
-    public static boolean isPalindrome(String str){
-
-        int start= 0;
-        int end = str.length()-1;
-
-        while(start<end){
-
-            if(str.charAt(start)!=str.charAt(end)){
-                return false;
+    private int expand(String s, int left, int right) {
+        int count = 0;
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+                        count++;
+                        left--;
+                        right++;
+                    }
+                    return count;
             }
-
-            start++;
-            end--;
-        }
-
-        return true;
-    }
     public int countSubstrings(String s) {
 
-            int count =0;
             int n = s.length();
-            for(int i =0;i<n;i++){
-                String result ="";
-                for(int j = i;j<n;j++){
-                    result+=s.charAt(j);
-
-                    if(isPalindrome(result)){
-                        count++;
-                    }
-                }
+            int count = 0;
+            for (int i = 0;i < n; i++) {
+            count += expand(s, i, i);// odd lnegth
+            count += expand(s, i, i + 1); // even length
             }
-
-            return count;
+        return count;
     }
 }
